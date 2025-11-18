@@ -137,7 +137,6 @@ Outlier-Detection-Using-PCA-DBSCAN/
 ├── screenshots/                        # Screenshots for README
 │   └── outlier_detection_example.png
 ├── README.md                           # Project documentation
-└── LICENSE                             # License file
 ```
 
 ## 🤝 Contributing
